@@ -1,27 +1,16 @@
 # BAKAR STUDIO
 
-<sub>CGI / VFX / CREATIVE WEB TOOLS</sub>
+<sub>CGI / VFX / CREATIVE TOOLS</sub>
 
-I'm Bakar. I build visual work and practical interfaces, including experiments for wearable displays. My current public projects explore studio tools, Quran recitation and phone-connected music on Meta Ray-Ban Display.
+I'm Bakar. I make visual work and practical digital tools. Here are a few personal experiments in interfaces for wearable displays.
 
-**[Visual work and portfolio](https://bakar.ca/)**
+**[Portfolio](https://bakar.ca/)**
 
-<br>
+### Selected experiments
 
-### Selected projects
+- [Bakar Home](https://github.com/baklarrrr/glass-home) - A compact studio overview.
+- [Quran Glass](https://github.com/baklarrrr/quran-glass) - Quran reading and recitation.
+- [Studio Glass](https://github.com/baklarrrr/studio-glass) - Studio status and visual review.
+- [Tidal Glass](https://github.com/baklarrrr/tidal-glass) - An interface for phone-based music playback.
 
-**[Bakar Home](https://github.com/baklarrrr/glass-home)**  
-A home screen for studio status, apps and picture review. The current preparation build keeps task and feedback sending disabled.
-
-**[Quran Glass](https://github.com/baklarrrr/quran-glass)**  
-Quran reading and recitation with word-by-word highlighting. Voice following needs a paired phone; it does not assess tajwid.
-
-**[Studio Glass](https://github.com/baklarrrr/studio-glass)**  
-Render status and exact-version picture review through a studio PC relay. Physical glasses and Neural Band acceptance remains open.
-
-**[Tidal Glass](https://github.com/baklarrrr/tidal-glass)**  
-Now-playing, queue and music controls for TIDAL on a paired phone. This repository contains the web interface and needs the phone companion for playback and controls.
-
-<br>
-
-<sub>Personal projects in development. Device behavior and companion dependencies vary by project. Not affiliated with Meta or TIDAL.</sub>
+<sub>Experimental projects. Device support and validation vary. Independent of Meta and TIDAL.</sub>
