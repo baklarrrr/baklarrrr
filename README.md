@@ -1,16 +1,27 @@
-## Hi there 👋
+# BAKAR STUDIO
 
-<!--
-**baklarrrr/baklarrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<sub>CGI / VFX / CREATIVE WEB TOOLS</sub>
 
-Here are some ideas to get you started:
+I'm Bakar. I build visual work and practical interfaces, including experiments for wearable displays. My current public projects explore studio tools, Quran recitation and phone-connected music on Meta Ray-Ban Display.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Visual work and portfolio](https://bakar.ca/)**
+
+<br>
+
+### Selected projects
+
+**[Bakar Home](https://github.com/baklarrrr/glass-home)**  
+A home screen for studio status, apps and picture review. The current preparation build keeps task and feedback sending disabled.
+
+**[Quran Glass](https://github.com/baklarrrr/quran-glass)**  
+Quran reading and recitation with word-by-word highlighting. Voice following needs a paired phone; it does not assess tajwid.
+
+**[Studio Glass](https://github.com/baklarrrr/studio-glass)**  
+Render status and exact-version picture review through a studio PC relay. Physical glasses and Neural Band acceptance remains open.
+
+**[Tidal Glass](https://github.com/baklarrrr/tidal-glass)**  
+Now-playing, queue and music controls for TIDAL on a paired phone. This repository contains the web interface and needs the phone companion for playback and controls.
+
+<br>
+
+<sub>Personal projects in development. Device behavior and companion dependencies vary by project. Not affiliated with Meta or TIDAL.</sub>
